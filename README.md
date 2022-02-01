@@ -36,5 +36,5 @@ To download the extension, please click [here](https://github.com/YS-Wong/MOOC-w
 [The MIT License (MIT)](https://raw.githubusercontent.com/YS-Wong/MOOC-wizard/main/LICENSE)
 <br>
 
-<br><br>
+<br>
 Note: since the extension has not been published on Chrome Web Store yet, one may encounter difficulties installing the extension. In that case, I would recommend you to download the original script and use “load unpacked”.
