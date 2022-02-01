@@ -31,3 +31,7 @@ MOOC-wizard can pin the assignments that are about to expire on top, and list th
 ## Download and install
 To download the extension, please click [here](https://github.com/YS-Wong/MOOC-wizard/releases "download links").  
 <br>
+
+## License
+[The MIT License (MIT)](https://raw.githubusercontent.com/YS-Wong/MOOC-wizard/main/LICENSE)
+<br>
