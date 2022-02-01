@@ -3,7 +3,7 @@
 
 **Not meant to finish exam or homework for anyone, but committed to optimize your studying experience on 163-mooc.**
 
-## Functions
+## Features
 _in the latest version: 1.0_  
 <img src="pictures/capture_interface_0.2.1.png" width="300" alt="The user interfaces of MOOC wizard on google chrome. A button and a few checkboxes are shown. "><br>
 <sub><sup>It's not in the evaluation page, so the button is disabled. </sup></sub>
