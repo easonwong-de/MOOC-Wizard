@@ -28,13 +28,22 @@ Assignments on 163-MOOC are by default in chronological order.
 MOOC-wizard can pin the assignments that are about to expire on top, and list the passed ones below.  
 <br>
 
-## Download and install
-To download the extension, please click [here](https://github.com/YS-Wong/MOOC-wizard/releases "download links").  
+## Download and Install
+Since the extension has not been uploaded to Chrome Web Store or AMO, one can only install the extension using source code.  
+### Chrome / Edge
+Since the extension has not been uploaded to Chrome Web Store, one can only install the extension using source code.  
+1. Download and unzip this repo  
+2. Visit `chrome://extensions/` or `edge://extensions/`  
+3. Enable “Developer mode”  
+4. Click “Load unpacked”  
+5. Select folder which includes `manifest.json`  
+### Firefox
+1. Download and unzip this repo  
+2. Visit `about:debugging#/runtime/this-firefox`  
+3. Click “Load Temporary Add-on”  
+4. Select `manifest.json`  
 <br>
 
 ## License
-[The MIT License (MIT)](https://raw.githubusercontent.com/YS-Wong/MOOC-wizard/main/LICENSE)
+[The MIT License (MIT)](https://raw.githubusercontent.com/YS-Wong/MOOC-wizard/main/LICENSE)  
 <br>
-
-<br>
-Note: since the extension has not been published on Chrome Web Store yet, one may encounter difficulties installing the extension. In that case, I would recommend you to download the original script and use “load unpacked”.
